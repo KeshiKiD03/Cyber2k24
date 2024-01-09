@@ -80,6 +80,17 @@ state: Alias for region string
 version: Version for the product string
 
 vuln: CVE ID for a vulnerability string
+
+### SAMBA
+
+* Podremos visualizar a través del puerto SAMBA.
+
+```
+"Authentication: disabled" port:445
+```
+
+![](./image/Screenshot_3.png)
+
 -
 
 ### Github JakeJarvis
