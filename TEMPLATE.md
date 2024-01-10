@@ -5,7 +5,7 @@
 Template [Shodan](https://www.shodan.io/), Template ([literal](https://www.vice.com/en_uk/article/9bvxmd/shodan-exposes-the-dark-side-of-the-net)) Template.
 
 <p align="center">
-  <img src="image/screenshot_X.jpg" /><br />
+  <img src="image/screenshot_X.png" /><br />
   <strong><a href="https://account.shodan.io/register">Template</a></strong>
 </p>
 

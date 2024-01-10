@@ -93,6 +93,16 @@ vuln: CVE ID for a vulnerability string
 
 -
 
+### Cámaras Web Yawcam
+
+* Podremos visualizar cámaras IP de Yawcam.
+
+```
+"Server: yawcam" "Mime-Type: text/html"
+```
+
+![](./image/Screenshot_10.png)
+
 ### Github JakeJarvis
 
 # Awesome Shodan Search Queries [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
