@@ -5,7 +5,7 @@
 Whois [Más información de Whois](https://www.kali.org/tools/whois/).
 
 <p align="center">
-  <img src="image/screenshot_4.jpg" /><br />
+  <img src="image/Screenshot_4.jpg" /><br />
   <strong><a href="https://www.kali.org/tools/whois/">Whois</a></strong>
 </p>
 
