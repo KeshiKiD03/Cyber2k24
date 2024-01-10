@@ -17,6 +17,7 @@ Nos permite ver todos los Snapshots que tiene una página web hasta la fecha act
 ### **Table of Contents**
 
 - [Archive](#Archive)
+- [Ejemplos](#Ejemplos)
 
 ---
 
@@ -29,10 +30,14 @@ Nos permite ver todos los Snapshots que tiene una página web hasta la fecha act
 Archive
 ```
 
-<div align="center"><img src="image/Screenshot_1.png" alt="Example: Archive" width="500" /></div>
+## Ejemplos
 
-<div align="center"><img src="image/Screenshot_2.png" alt="Example: Archive" width="500" /></div>
+<div align="center"><img src="image/Screenshot_5.png" alt="Example: Google" width="500" /><figcaption>Google</figcaption></div>
 
-Realizando la consulta Archive podemos obtener una serie de datos pasivamente de cualquier parámetro que le indiquemos, en este caso estamos realizando una consulta del dominio __groupg4.com__.
+<div align="center"><img src="image/Screenshot_6.png" alt="Example: Yahoo" width="500" /><figcaption>Yahoo</figcaption></div>
 
-Pero la información no es muy precisa ya que hay privacidad.
+<div align="center"><img src="image/Screenshot_7.png" alt="Example: Altavista" width="500" /><figcaption>Altavista</figcaption></div>
+
+<div align="center"><img src="image/Screenshot_8.png" alt="Example: Amazon" width="500" /><figcaption>Amazon</figcaption></div>
+
+<div align="center"><img src="image/Screenshot_9.png" alt="Example: Facebook" width="500" /><figcaption>Facebook</figcaption></div>
