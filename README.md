@@ -26,6 +26,21 @@
     <p style="text-align: center; font-weight: bold">Cómo detectar Vulnerabilidades con Nmap / <i>Haga click en la imagen</i></p>
 </div>
 
+<div>
+    <a href="https://x.com/HackersOIHEC/status/1743775548025790865?t=pS9KTNkHNJis9vx_RgCpNg&s=08" target="_blank">
+        <img src="./image/Konboot.png" alt="Konboot: Acceso a Windows con 'Brute force attack' sin contraseña" style="width: 500px; height: auto;">
+    </a>
+    <p style="text-align: center; font-weight: bold">Konboot: Acceso a Windows con 'Brute force attack' sin contraseña / <i>Haga click en la imagen</i></p>
+</div>
+
+<div>
+    <a href="https://youtube.com/shorts/e4WLubfvRUc?si=IcFxDByw3Ql-Fabd" target="_blank">
+        <img src="./image/Python.png" alt="Hacking Ético con Python - Demostración por qué es peligroso ejecutar ficheros de Python" style="width: 500px; height: auto;">
+    </a>
+    <p style="text-align: center; font-weight: bold">Hacking Ético con Python - Demostración por qué es peligroso ejecutar ficheros de Python / <i>Haga click en la imagen</i></p>
+</div>
+
+
 
 #### Créditos: Aaron @Keshi
 
