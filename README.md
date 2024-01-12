@@ -18,7 +18,13 @@
 
 #### Curiosidades Cyber
 
-<a href="https://www.youtube.com/shorts/e4WLubfvRUc" target="_blank"><img src="./image/Nmap-Kali-Linux-Guide.png" alt="Título del Video" style="width: 500px; height: auto;"></a>
+<div>
+    <a href="https://www.youtube.com/shorts/e4WLubfvRUc" target="_blank">
+        <img src="./image/Nmap-Kali-Linux-Guide.png" alt="Cómo detectar Vulnerabilidades con Nmap" style="width: 500px; height: auto;">
+    </a>
+    <p style="text-align: center;">Cómo detectar Vulnerabilidades con Nmap</p>
+</div>
+
 
 #### Créditos: Aaron @Keshi
 
