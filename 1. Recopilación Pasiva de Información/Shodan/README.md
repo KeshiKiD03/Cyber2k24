@@ -8,7 +8,7 @@
 
 > https://help.shodan.io/the-basics/what-is-shodan
 
-https://www.shodan.io/
+Enlace de `Shodan`: https://www.shodan.io/
 
 * Podremos buscar cualquier tipo de sistema que tenga puertos abiertos y que tenga servicios corriendo en ellos.
 
@@ -18,8 +18,8 @@ https://www.shodan.io/
 
 ![](./image/shodan1.png)
 
-* FTP: Buscará todas las máquinas con la IP pública que tengan el servicio FTP activado.
-* Shodan intentará hacer un login a esa máquina para detectar vulnerabilidades, normalmente pondrá __Login Incorrect__.
+* `FTP:` Buscará todas las máquinas con la IP pública que tengan el servicio FTP activado.
+* `Shodan` intentará hacer un login a esa máquina para detectar vulnerabilidades, normalmente pondrá __Login Incorrect__.
 
 ![](./image/Screenshot_1.png)
 
