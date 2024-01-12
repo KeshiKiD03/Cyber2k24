@@ -8,11 +8,17 @@
 
 ### **Índice**
 
-- [1.Recopilación Pasiva de Información](https://github.com/KeshiKiD03/Cyber2k24/tree/main/1.%20Recopilación%20Pasiva%20de%20Información)
+- [1. Recopilación Pasiva de Información](https://github.com/KeshiKiD03/Cyber2k24/tree/main/1.%20Recopilación%20Pasiva%20de%20Información)
 
 ---
 
 ![](./image/kali.png)
+
+---
+
+#### Curiosidades Cyber
+
+[![Detectar vulnerabilidades con Nmap](https://www.youtube.com/shorts/e4WLubfvRUc)](URL del video "Detectar vulnerabilidades con Nmap")
 
 #### Créditos: Aaron @Keshi
 
