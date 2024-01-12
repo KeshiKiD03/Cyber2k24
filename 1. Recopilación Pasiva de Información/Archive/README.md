@@ -42,6 +42,6 @@ Archive
 
 <div align="center"><img src="image/Screenshot_9.png" alt="Example: Facebook" width="500" /><figcaption>Facebook</figcaption></div>
 
-<div align="center"><img src="image/Screenshot_10.png" alt="Example: Facebook" width="500" /><figcaption>GroupG4</figcaption></div>
+<div align="center"><img src="image/Screenshot_10.png" alt="Example: Facebook" width="500" /><figcaption>GroupG4 2012</figcaption></div>
 
-<div align="center"><img src="image/Screenshot_11.png" alt="Example: Facebook" width="500" /><figcaption>GroupG4</figcaption></div>
+<div align="center"><img src="image/Screenshot_11.png" alt="Example: Facebook" width="500" /><figcaption>GroupG4 2019</figcaption></div>
