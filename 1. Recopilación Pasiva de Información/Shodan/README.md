@@ -2,17 +2,19 @@
 
 ## Aaron Keshi 05.01.24
 
-# Shodan
+## Shodan
 
 * Shodan es un motor de búsqueda de dispositivos conectados a Internet. Los motores de búsqueda web, como Google y Bing, son excelentes para encontrar sitios web. Pero ¿qué pasa si estás interesado en medir qué países están cada vez más conectados? ¿O si quieres saber qué versión de Microsoft IIS es la más popular? ¿O desea encontrar los servidores de control de malware? ¿Quizás surgió una nueva vulnerabilidad y desea ver a cuántos hosts podría afectar? Los motores de búsqueda web tradicionales no le permiten responder esas preguntas.
 
 > https://help.shodan.io/the-basics/what-is-shodan
 
+https://www.shodan.io/
+
 * Podremos buscar cualquier tipo de sistema que tenga puertos abiertos y que tenga servicios corriendo en ellos.
 
-#### Ejemplos
+## Ejemplos
 
-##### __FTP__
+### __FTP__
 
 ![](./image/shodan1.png)
 
@@ -21,13 +23,12 @@
 
 ![](./image/Screenshot_1.png)
 
-* Anonymous
+### __Anonymous__
 
 ![](./image/Screenshot_2.png)
 
 * https://github.com/jakejarvis/awesome-shodan-queries
   
-
 ## Shodan: Comandos principales
 ### Comandos relevantes para Shodan
 
@@ -83,9 +84,9 @@ A continuación se presentan algunos de los filtros más relevantes para el uso 
 
 ---
 
-### SAMBA
+### SMB
 
-* Podremos visualizar a través del puerto SAMBA.
+* Podremos visualizar a través del puerto SMB mediante el puerto 445. Podremos observar que tenemos el Share
 
 ```
 "Authentication: disabled" port:445
@@ -105,7 +106,7 @@ A continuación se presentan algunos de los filtros más relevantes para el uso 
 
 ![](./image/Screenshot_10.png)
 
-### Github JakeJarvis
+# Github JakeJarvis
 
 # Awesome Shodan Search Queries [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
