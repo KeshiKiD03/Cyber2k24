@@ -23,7 +23,7 @@
     <a href="https://www.youtube.com/shorts/e4WLubfvRUc" target="_blank">
         <img src="./image/Nmap-Kali-Linux-Guide.png" alt="Cómo detectar Vulnerabilidades con Nmap" style="width: 500px; height: auto;">
     </a>
-    <p style="text-align: center;">Cómo detectar Vulnerabilidades con Nmap / <em>Haga click en la imagen</em></p>
+    <p style="text-align: center; font-weight: bold">Cómo detectar Vulnerabilidades con Nmap / <i>Haga click en la imagen</i></p>
 </div>
 
 
