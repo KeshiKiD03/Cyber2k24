@@ -8,7 +8,16 @@
 
 ### **Índice**
 
-- [1.Recopilación Pasiva de Información](https://github.com/KeshiKiD03/Cyber2k24/tree/main/1.%20Recopilación%20Pasiva%20de%20Información)
+- [Recopilación pasiva de información](#recopilación-pasiva-de-información)
+- [Google Hacking: Comandos y Operadores Booleanos](#google-hacking-comandos-y-operadores-booleanos)
+- [ZMAP](#zmap)
+
+### Véase otros métodos
+
+- [Shodan](https://github.com/KeshiKiD03/Cyber2k24/tree/main/1.%20Recopilación%20Pasiva%20de%20Información/Shodan)
+- [Archive](https://github.com/KeshiKiD03/Cyber2k24/tree/main/1.%20Recopilación%20Pasiva%20de%20Información/Archive)
+- [Whois](https://github.com/KeshiKiD03/Cyber2k24/tree/main/1.%20Recopilación%20Pasiva%20de%20Información/Whois)
+- [TheHarvester](https://github.com/KeshiKiD03/Cyber2k24/tree/main/1.%20Recopilación%20Pasiva%20de%20Información/TheHarvester)
 
 ---
 
