@@ -12,7 +12,7 @@
 - [Google Hacking: Comandos y Operadores Booleanos](#google-hacking-comandos-y-operadores-booleanos)
 - [ZMAP](#zmap)
 
-### Véase otros métodos
+### Véase otros métodos de recopilación pasiva de información
 
 - [Shodan](https://github.com/KeshiKiD03/Cyber2k24/tree/main/1.%20Recopilación%20Pasiva%20de%20Información/Shodan)
 - [Archive](https://github.com/KeshiKiD03/Cyber2k24/tree/main/1.%20Recopilación%20Pasiva%20de%20Información/Archive)
