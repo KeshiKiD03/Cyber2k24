@@ -4,6 +4,8 @@
 
 #### Documentación realizada a partir del curso de www.udemy.com - Cyberseguridad
 
+---
+
 ### **Índice**
 
 - [1.Recopilación Pasiva de Información]()
