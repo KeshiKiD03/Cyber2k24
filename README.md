@@ -18,7 +18,7 @@
 
 #### Curiosidades Cyber
 
-[![Detectar vulnerabilidades con Nmap](https://www.youtube.com/shorts/e4WLubfvRUc)](URL del video "Detectar vulnerabilidades con Nmap")
+[![Detectar vulnerabilidades con Nmap](https://www.youtube.com/shorts/e4WLubfvRUc)](https://www.youtube.com/shorts/e4WLubfvRUc "Detectar vulnerabilidades con Nmap")
 
 #### Créditos: Aaron @Keshi
 
